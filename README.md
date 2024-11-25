@@ -8,4 +8,3 @@
 </p>
 
 
-![Uploading image.png…]()
